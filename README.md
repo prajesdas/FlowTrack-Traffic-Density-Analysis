@@ -18,7 +18,7 @@ TrafficVision is an AI-based traffic monitoring system that uses **OpenCV** and 
 ## 📌 How to Use  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/TrafficVision.git
+   git clone https://github.com/prajesdas/TrafficVision.git
    cd TrafficVision
    ```  
 2. Install dependencies:  
